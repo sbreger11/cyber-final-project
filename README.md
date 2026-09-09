@@ -22,7 +22,7 @@ This is an encrypted messaging application that connects clients to a server and
   
 ### Instructions:
 
-> **NOTE:** the droplet server may no longer be running. Testing can still be done by creating a local server.
+> **NOTE:** the droplet server may no longer be running. Testing can still be done by creating a server on your machine (whether local or public).
 
 > **NOTE:** all the following commands can only be run from the root directory of the repo
 
