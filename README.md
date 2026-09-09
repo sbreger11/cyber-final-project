@@ -22,6 +22,8 @@ This is an encrypted messaging application that connects clients to a server and
   
 ### Instructions:
 
+> **NOTE:** the droplet server may no longer be running. Testing can still be done by creating a local server.
+
 > **NOTE:** all the following commands can only be run from the root directory of the repo
 
 > **NOTE:** if you are using a local server to connect clients to, it is advised to start the server before the clients
